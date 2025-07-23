@@ -21,4 +21,3 @@ Here with another JavaScript Project {11/12}: EMI-Calculator📱
 
 #NOT_TO_READ_CONTENET_DOWN_BELOW
 
-Akshay Saini 🚀Chirag Goel NamasteDev.com Neeraj Walia Harkirat Singh freeCodeCamp JavaScript Developer JavaScript #javascript #project #htmlcssjavascript #simpleproject #learninpublic
