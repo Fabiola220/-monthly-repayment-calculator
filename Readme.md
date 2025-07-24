@@ -1,15 +1,10 @@
 Hey friends😊,
 
-Here with another JavaScript Project {11/12}: EMI-Calculator📱
+Here with another JavaScript Project 
 
-🟢Live Demo: https://lnkd.in/d9JzTmCr
-
-💻GitHub Repo: https://lnkd.in/d6j6yVdr
-
- emi-calculator.mp4 
 🔴FEATURES🔴
 
-🍭 A simple UI-based EMI Calculator with a gradient background and some cool-looking styling with HTML and CSS.
+🍭 A simple UI-based  Calculator with a gradient background and some cool-looking styling with HTML and CSS.
 
 🍭Corely based on the concepts of JavaScript such as DOM manipulation and addEventListeners.
 
