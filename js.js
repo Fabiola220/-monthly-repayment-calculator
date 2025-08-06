@@ -3,7 +3,7 @@ const interestInput = document.getElementById("interest");
 const monthInput = document.getElementById("month");
 const resultEMI = document.getElementById("emi");
 
-const emiCalculator = () => {
+const emiCalculator = () => { 
   const LoanAmount = parseFloat(loanInput.value);
   const annualInterest = parseFloat(interestInput.value);
   const monthsToPay = parseInt(monthInput.value);
